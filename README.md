@@ -20,4 +20,4 @@ Python & Data Science réalisés sur Google Colab.
 ## Crédits
 
 Cours de M. Guéry — Faculté d'Économie, UPJV
-"""
+
