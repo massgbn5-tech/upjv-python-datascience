@@ -2,3 +2,4 @@ mumpy
 pandas
 matplotlib
 seaborn
+scikit-learn
